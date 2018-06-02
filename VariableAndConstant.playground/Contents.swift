@@ -20,6 +20,16 @@ numberInt = 555
 
 let surnameString = "Khositprasert"
 
+//การประกาศตัวแปรแบบกำหนด data type
+//explicit variable
+var name2String: String = "Doramon"
+var number2Int: Int = 123
+var nuber2Double: Double = 12.123
+var status2Bool: Bool = false
+
+
+
+
 
 
 
